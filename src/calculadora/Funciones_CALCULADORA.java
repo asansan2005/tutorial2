@@ -47,14 +47,4 @@ public class Funciones_CALCULADORA {
         double resta=numero1-numero2;
         return resta;
     }
-
-    public double multiplicacion(){
-        double multiplicacion=numero1*numero2;
-        return multiplicacion;
-    }
-    public double division() {
-        double division=numero1/numero2;
-        return division;
-    }
-
 }
