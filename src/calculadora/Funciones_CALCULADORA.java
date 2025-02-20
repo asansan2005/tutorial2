@@ -38,13 +38,12 @@ public class Funciones_CALCULADORA {
 
     //métodos
 
-    public double suma() {
-        double suma=numero1+numero2;
-        return suma;
+    public double multiplicacion(){
+        double multiplicacion=numero1*numero2;
+        return multiplicacion;
     }
-
-    public double resta() {
-        double resta=numero1-numero2;
-        return resta;
+    public double division() {
+        double division=numero1/numero2;
+        return division;
     }
 }
