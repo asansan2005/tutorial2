@@ -28,7 +28,7 @@ public class CALCULADORA {
         int operacion =0;
         do {
             System.out.println(" Introduce Operacion a realizar");
-            System.out.println(" 1. multiplicacion \n 2. division \n 3. salir");
+            System.out.println(" 1. multiplicacion \n 2. divisio \n 3. salir");
             // leo por teclado un entero como opción del menú
             operacion =sc.nextInt();
             // segun valor elegido ejecuto método del objeto claculadora
